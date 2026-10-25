@@ -49,7 +49,7 @@ export default function Home() {
       />
 
       <div className="mt-10 flex flex-col gap-6">
-        <Kartu judul="Tentang Saya">
+        <Kartu judul="Tentang Sayaa">
           <p className="text-on-surface-variant" >
             Saya adalah seorang siswa Jurusan Rekayasa Perangkat Lunak Di SMKN 1 Pasuruan, Saya adalah seorang AOSP Anthusiast yang dimana
             saya adalah seorang pengembang tools tweak system Android, saya mengenal dunia program sejak duduk di bangku SMP tepat nya saat
