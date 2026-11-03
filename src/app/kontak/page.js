@@ -3,7 +3,6 @@ export const metadata = {
   description: "Hubungi Riza Maulana melalui form kontak, email, atau GitHub.",
 };
 
-// GANTI dengan GitHub dan email milikmu sendiri
 const github = "https://github.com/Reiii3";
 const email = "rizamaulanaa3@gmail.com";
 
